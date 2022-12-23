@@ -1,0 +1,17 @@
+.maincon{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    align-items: baseline;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+
+
+
+h1{
+    font-size: 700px;
+    font-weight: bold;
+    color: lightblue;
+}
